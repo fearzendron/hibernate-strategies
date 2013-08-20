@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="ejb-jar" name="multi-tenant-ejb:ejb">
+    <output-path>$PROJECT_DIR$/multi-tenant-ejb/target</output-path>
+    <root id="archive" name="multi-tenant-ejb.jar">
+      <element id="artifact" artifact-name="multi-tenant-ejb:ejb exploded" />
+    </root>
+  </artifact>
+</component>

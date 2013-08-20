@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/multi-tenant-ejb/multi-tenant-ejb.iml" filepath="$PROJECT_DIR$/multi-tenant-ejb/multi-tenant-ejb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/multi-tenant-hibernate.iml" filepath="$PROJECT_DIR$/multi-tenant-hibernate.iml" />
+    </modules>
+  </component>
+</project>
+

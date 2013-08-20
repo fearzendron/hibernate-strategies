@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-ejb" name="HibernatePersonalized:ejb exploded">
+    <output-path>$PROJECT_DIR$/target/HibernatePersonalized</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="HibernatePersonalized/ejb/EJB" />
+      <element id="module-output" name="HibernatePersonalized" />
+    </root>
+  </artifact>
+</component>

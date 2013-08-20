@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-ejb" name="multi-tenant-ejb:ejb exploded">
+    <output-path>$PROJECT_DIR$/multi-tenant-ejb/target/multi-tenant-ejb</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="multi-tenant-ejb/ejb/EJB" />
+      <element id="module-output" name="multi-tenant-ejb" />
+    </root>
+  </artifact>
+</component>
