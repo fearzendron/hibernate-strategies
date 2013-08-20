@@ -1,0 +1,2 @@
+br\com\zendron\model\People.class
+br\com\zendron\util\HibernateUtil.class
